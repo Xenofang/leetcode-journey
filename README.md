@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Xenofang/leetcode-journey/tree/master/0075-sort-colors) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Xenofang/leetcode-journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -49,12 +50,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Xenofang/leetcode-journey/tree/master/0094-binary-tree-inorder-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Xenofang/leetcode-journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Xenofang/leetcode-journey/tree/master/0094-binary-tree-inorder-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Xenofang/leetcode-journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Xenofang/leetcode-journey/tree/master/0094-binary-tree-inorder-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Xenofang/leetcode-journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Hash Table
+|  |
+| ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Xenofang/leetcode-journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Xenofang/leetcode-journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
