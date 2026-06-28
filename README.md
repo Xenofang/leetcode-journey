@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Xenofang/leetcode-journey/tree/master/0102-binary-tree-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Xenofang/leetcode-journey/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Xenofang/leetcode-journey/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Xenofang/leetcode-journey/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Xenofang/leetcode-journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Xenofang/leetcode-journey/tree/master/0094-binary-tree-inorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Xenofang/leetcode-journey/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Xenofang/leetcode-journey/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Xenofang/leetcode-journey/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Xenofang/leetcode-journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Xenofang/leetcode-journey/tree/master/0102-binary-tree-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Xenofang/leetcode-journey/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Xenofang/leetcode-journey/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Xenofang/leetcode-journey/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Xenofang/leetcode-journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Hash Table
 |  |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Xenofang/leetcode-journey/tree/master/0102-binary-tree-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Xenofang/leetcode-journey/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Xenofang/leetcode-journey/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Xenofang/leetcode-journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Sliding Window
 |  |
