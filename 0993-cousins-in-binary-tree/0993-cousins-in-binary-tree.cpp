@@ -38,7 +38,7 @@ public:
         //right
         solve(root->right , root , depth+1 , x , y);
 
-        
+        return;
     }
 
 
