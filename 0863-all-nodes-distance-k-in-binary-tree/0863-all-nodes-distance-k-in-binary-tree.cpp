@@ -10,70 +10,65 @@
 class Solution {
 public:
     vector<int>ans;
-
-    void solve(TreeNode* root , int k)
+    void  add_in_ans(TreeNode* root ,int k)
     {
-        if(root == NULL) return ;
-
-        if(k==0)
+        if(root == NULL) return;
+        if(k == 0)
         {
             ans.push_back(root->val);
             return;
         }
-        solve(root->left , k-1);
-        solve(root->right , k-1);
-
+        add_in_ans(root->left , k-1);
+        add_in_ans(root->right , k-1);
     }
     int findT(TreeNode* root, TreeNode* target, int k)
     {
-        if(root == NULL) return -1 ;
-
-        if(root == target)
-        {
-            solve(target , k);
+        if(root == NULL) return -1;
+        // when find the target
+        if(root == target){
+            add_in_ans(root , k);
             return 0;
         }
-        int left = findT(root->left , target , k);
-
+        // if not found 
+        int left = findT(root->left , target , k );
         if(left != -1)
         {
             int dist = left+1 ;
 
-            if(dist == k) {
+            if(dist == k)
+            {
                 ans.push_back(root->val);
             }
-            if(dist < k)
+            if(dist < k) 
             {
-                solve(root->right , k-dist-1);
+                add_in_ans(root->right , k-dist-1);
             }
-
             return dist;
         }
-
         int right = findT(root->right , target , k);
 
-        if(right != -1 )
+        if(right != -1)
         {
-            int dist = right+1 ;
+            int dist = right+1;
 
-            if(dist == k) 
+            if(dist == k)
             {
                 ans.push_back(root->val);
             }
             if(dist < k)
             {
-                solve(root->left , k - dist - 1);
+                add_in_ans(root->left , k-1-dist);
             }
-            return dist;
+            return dist ;
         }
-
         return -1;
-
-
     }
+
+
     vector<int> distanceK(TreeNode* root, TreeNode* target, int k) {
-         findT(root , target , k);
+        findT(root ,target , k);
 
         return ans;
+
     }
 };
