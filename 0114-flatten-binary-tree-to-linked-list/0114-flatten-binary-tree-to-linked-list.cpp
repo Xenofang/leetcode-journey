@@ -11,12 +11,12 @@
  */
 class Solution {
 public:
-    list<TreeNode*> l;
+    vector<TreeNode*> vec;
     void solve(TreeNode* root)
     {
         if(root == NULL) return ;
 
-        l.push_back(root);
+        vec.push_back(root);
 
         solve(root->left);
         solve(root->right);
@@ -24,16 +24,17 @@ public:
     }
     void flatten(TreeNode* root) {
         solve(root);
-        
-        auto curr = l.begin();
-        auto next = curr;
-        next++;
-
-        while(next != l.end()){
-            (*curr)->left = NULL;
-            (*curr)->right = *next;
-            curr++ ; next++;
+        if(vec.empty()) return;
+        for(int i = 0 ; i < vec.size()-1 ; i++ )
+        {
+            vec[i]->left = NULL;
+            vec[i]->right = vec[i+1];
         }
+        // only connects last second 
+
+        vec.back()->right = NULL;
+        vec.back()->left = NULL;
+    
         
     }   
 };
