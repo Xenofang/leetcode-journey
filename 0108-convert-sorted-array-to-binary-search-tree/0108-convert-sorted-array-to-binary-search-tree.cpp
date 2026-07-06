@@ -11,21 +11,22 @@
  */
 class Solution {
 public:
-    TreeNode* build(vector<int>& nums , int start , int end )
+    TreeNode* build(vector<int>& nums , int st , int end)
     {
-        if(start > end) return NULL;
-        
-        int mid = start +(end-start) / 2;
-        TreeNode* root = new TreeNode( nums[mid]);
+        //base case 
+        if(st > end)return NULL;
 
-        root->left = build(nums , start , mid-1);
+        int mid = st+(end-st)/2;
+
+        TreeNode* root = new TreeNode(nums[mid]);
+
+        root->left = build(nums , st , mid-1);
         root->right = build(nums , mid+1 , end);
 
-        return root ;
+        return root;
     }
     TreeNode* sortedArrayToBST(vector<int>& nums) {
-        int n = nums.size();
-        TreeNode* root = build(nums, 0 , n-1 );
+        TreeNode* root = build(nums , 0 , nums.size()-1);
 
         return root;
     }
