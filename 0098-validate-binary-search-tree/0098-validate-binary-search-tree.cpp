@@ -11,21 +11,18 @@
  */
 class Solution {
 public:
-    bool isvalid(TreeNode* root , TreeNode* min , TreeNode* max)
+    bool helper(TreeNode* root , TreeNode* min , TreeNode* max )
     {
         if(root == NULL) return true;
 
         if(min != NULL && root->val <= min->val) return false;
+        if(max != NULL && root->val >= max->val) return false;
 
-        if(max != NULL && root->val >= max->val) return false ;
+        return helper(root->left , min , root) && helper(root->right , root , max);
 
-        return isvalid(root->left , min , root) && isvalid(root->right , root , max);
     }
+
     bool isValidBST(TreeNode* root) {
-        //  min , max 
-
-        return isvalid(root , NULL , NULL);
-
-        
+        return helper(root , NULL , NULL);
     }
 };
