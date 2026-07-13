@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Xenofang/leetcode-journey/tree/master/0011-container-with-most-water) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Xenofang/leetcode-journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Xenofang/leetcode-journey/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Xenofang/leetcode-journey/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Xenofang/leetcode-journey/tree/master/0075-sort-colors) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Xenofang/leetcode-journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Xenofang/leetcode-journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0713-subarray-product-less-than-k](https://github.com/Xenofang/leetcode-journey/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Xenofang/leetcode-journey/tree/master/1004-max-consecutive-ones-iii) |
