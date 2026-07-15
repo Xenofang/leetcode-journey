@@ -29,8 +29,7 @@ public:
         {
             int sum = nums[i]+nums[j];    
             if(sum == k) return true;
-            if(sum < k) i++;
-            else j--;
+            (sum < k) ? i++ : j--;
         }
         return false;
     }
