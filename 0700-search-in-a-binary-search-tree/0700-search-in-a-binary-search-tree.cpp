@@ -17,8 +17,8 @@ public:
         if(root->val == val ) return root;
 
         if(root->val > val ) return root->left = searchBST(root->left , val);
-        else  return root->right = searchBST(root->right , val);
+        else if( root->val < val) return root->right = searchBST(root->right , val);
         
-        
+        return root;
     }
 };
