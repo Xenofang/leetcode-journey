@@ -10,24 +10,20 @@
  * };
  */
 class Solution {
-public:
-    TreeNode* build(vector<int>& nums , int st , int end)
+public: 
+    TreeNode* buildBST(vector<int>& nums , int st ,int end)
     {
-        //base case 
-        if(st > end)return NULL;
+        if(st > end) return NULL;
 
-        int mid = st+(end-st)/2;
+        int mid = st + (end-st)/2;
 
-        TreeNode* root = new TreeNode(nums[mid]);
-
-        root->left = build(nums , st , mid-1);
-        root->right = build(nums , mid+1 , end);
+        TreeNode* root = new TreeNode (nums[mid]);
+        root->left = buildBST(nums , st , mid-1);
+        root->right = buildBST(nums , mid+1 , end);
 
         return root;
     }
     TreeNode* sortedArrayToBST(vector<int>& nums) {
-        TreeNode* root = build(nums , 0 , nums.size()-1);
-
-        return root;
+        return buildBST(nums, 0 , nums.size()-1);
     }
 };
