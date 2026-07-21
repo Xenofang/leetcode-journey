@@ -27,11 +27,11 @@ public:
 
             int sz = q.size();
 
-            while(sz--) {
+            while(sz > 0) {
 
                 auto [r, c] = q.front();
                 q.pop();
-
+                sz--;
                 for(int i = 0; i < 4; i++) {
 
                     int nr = r + dr[i];
