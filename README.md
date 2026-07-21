@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Xenofang/leetcode-journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Xenofang/leetcode-journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Xenofang/leetcode-journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Xenofang/leetcode-journey/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Xenofang/leetcode-journey/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Xenofang/leetcode-journey/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Xenofang/leetcode-journey/tree/master/0496-next-greater-element-i) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Xenofang/leetcode-journey/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Xenofang/leetcode-journey/tree/master/0169-majority-element) |
 | [0692-top-k-frequent-words](https://github.com/Xenofang/leetcode-journey/tree/master/0692-top-k-frequent-words) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Xenofang/leetcode-journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Greedy
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Xenofang/leetcode-journey/tree/master/0133-clone-graph) |
+| [0169-majority-element](https://github.com/Xenofang/leetcode-journey/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/Xenofang/leetcode-journey/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Xenofang/leetcode-journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/Xenofang/leetcode-journey/tree/master/0692-top-k-frequent-words) |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Xenofang/leetcode-journey/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Xenofang/leetcode-journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/Xenofang/leetcode-journey/tree/master/0169-majority-element) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -246,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Xenofang/leetcode-journey/tree/master/0169-majority-element) |
 | [0692-top-k-frequent-words](https://github.com/Xenofang/leetcode-journey/tree/master/0692-top-k-frequent-words) |
 ## Bit Manipulation
 |  |
