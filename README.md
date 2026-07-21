@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Xenofang/leetcode-journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Xenofang/leetcode-journey/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Xenofang/leetcode-journey/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/Xenofang/leetcode-journey/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Xenofang/leetcode-journey/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Xenofang/leetcode-journey/tree/master/0496-next-greater-element-i) |
 | [0692-top-k-frequent-words](https://github.com/Xenofang/leetcode-journey/tree/master/0692-top-k-frequent-words) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Xenofang/leetcode-journey/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Xenofang/leetcode-journey/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Xenofang/leetcode-journey/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Xenofang/leetcode-journey/tree/master/0692-top-k-frequent-words) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Xenofang/leetcode-journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Greedy
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/Xenofang/leetcode-journey/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/Xenofang/leetcode-journey/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Xenofang/leetcode-journey/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Xenofang/leetcode-journey/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Xenofang/leetcode-journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/Xenofang/leetcode-journey/tree/master/0692-top-k-frequent-words) |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Xenofang/leetcode-journey/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Xenofang/leetcode-journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Xenofang/leetcode-journey/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Xenofang/leetcode-journey/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -242,15 +246,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Xenofang/leetcode-journey/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Xenofang/leetcode-journey/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Xenofang/leetcode-journey/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Xenofang/leetcode-journey/tree/master/0692-top-k-frequent-words) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Xenofang/leetcode-journey/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Xenofang/leetcode-journey/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Xenofang/leetcode-journey/tree/master/0692-top-k-frequent-words) |
 ## Bit Manipulation
 |  |
@@ -269,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/Xenofang/leetcode-journey/tree/master/0133-clone-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Xenofang/leetcode-journey/tree/master/1971-find-if-path-exists-in-graph) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Xenofang/leetcode-journey/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
