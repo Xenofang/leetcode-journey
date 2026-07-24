@@ -1,38 +1,36 @@
 class Solution {
 public:
-    bool validPath(int n, vector<vector<int>>& edges, int source, int destination) {
-        queue<int> q;
-        vector<bool>vis(n,false);
-        vector<vector<int>>adj(n);
+    bool dfs( vector<vector<int>>&adj , vector<bool>&vis , int src , int destination ){
+        if(src == destination) return true;
+        else{
+            vis[src] = true;
 
-        for (auto edge : edges)
-        {
-            // in edges only two element connection 
-            int u = edge[0];
-            int v = edge[1];
-
-           
-            adj[u].push_back(v);
-            adj[v].push_back(u);
-        }
-        if(source == destination ) return true;
-        q.push(source);
-        vis[source] = true;
-        while(!q.empty())
-        {
-            int s = q.front();
-            q.pop();
-
-            for(int d : adj[s])
+            for(int i : adj[src])
             {
-                if(vis[d] == false)
+                if(vis[i] == false)
                 {
-                    vis[d] = true;
-                    if(d == destination) return true;
-                    q.push(d);
+                    if( dfs(adj , vis , i , destination )) return true;
                 }
             }
         }
         return false;
+
+    }
+
+    bool validPath(int n, vector<vector<int>>& edges, int source, int destination) {
+        vector<vector<int>>adj(n);
+        vector<bool>vis(n,false);
+
+        for(auto i : edges)
+        {
+            int u = i[0];
+            int v = i[1];
+
+            adj[u].push_back(v);
+            adj[v].push_back(u);
+
+        }
+
+        return dfs(adj , vis , source , destination);
     }
 };
