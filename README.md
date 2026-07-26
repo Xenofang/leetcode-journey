@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Xenofang/leetcode-journey/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Xenofang/leetcode-journey/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Xenofang/leetcode-journey/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Xenofang/leetcode-journey/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Xenofang/leetcode-journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Xenofang/leetcode-journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Xenofang/leetcode-journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Xenofang/leetcode-journey/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/Xenofang/leetcode-journey/tree/master/0222-count-complete-tree-nodes) |
 ## Simulation
 |  |
@@ -297,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Xenofang/leetcode-journey/tree/master/0189-rotate-array) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Xenofang/leetcode-journey/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
