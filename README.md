@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Xenofang/leetcode-journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Xenofang/leetcode-journey/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Xenofang/leetcode-journey/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/Xenofang/leetcode-journey/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/Xenofang/leetcode-journey/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Xenofang/leetcode-journey/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Xenofang/leetcode-journey/tree/master/0485-max-consecutive-ones) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Xenofang/leetcode-journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0133-clone-graph](https://github.com/Xenofang/leetcode-journey/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/Xenofang/leetcode-journey/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Xenofang/leetcode-journey/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Xenofang/leetcode-journey/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Xenofang/leetcode-journey/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Xenofang/leetcode-journey/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Xenofang/leetcode-journey/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/Xenofang/leetcode-journey/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/Xenofang/leetcode-journey/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Xenofang/leetcode-journey/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Xenofang/leetcode-journey/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Xenofang/leetcode-journey/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Xenofang/leetcode-journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Xenofang/leetcode-journey/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Xenofang/leetcode-journey/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -293,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Xenofang/leetcode-journey/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/Xenofang/leetcode-journey/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Xenofang/leetcode-journey/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Math
