@@ -1,55 +1,59 @@
 class Solution {
 public:
-    int dr[4] = {-1 , 1 , 0 , 0 };
-    int dc[4] = { 0 , 0 , -1 , 1 };
+    //direction arround the land 
+    vector<int>dr = {-1,1,0,0};
+    vector<int>dc = {0,0,-1,1};
 
-    void dfs( int r , int c ,vector<vector<char>>& grid , vector<vector<bool>>&vis )
-    {
+    int numIslands(vector<vector<char>>& grid) {
+        // sizes of m & n 
         int m = grid.size();
-        int n = grid[0].size();
+        int n  = grid[0].size();
 
-        vis[r][c] = true;
+        int island = 0 ;
 
-        for(int i = 0 ; i < 4 ; i++)
+        vector<vector<bool>>vis(m , vector<bool>(n , false));
+
+        // check each cell if its "0" | "1"
+        for(int r =  0 ; r < m ; r++)
         {
-            int nr = r + dr[i];
-            int nc = c + dc[i];
-
-            if(nr >=0 && nr < m &&
-                nc >= 0 && nc < n &&
-                grid[nr][nc] == '1' && vis[nr][nc] == false)
+            for(int c  = 0 ; c < n ; c++)
             {
-                dfs(nr, nc , grid , vis);
+                // check only for the land 
+                if(vis[r][c] == false && grid[r][c] == '1')
+                {
+                    island++;
+                    dfs(r , c , vis , grid);
+                }
             }
         }
 
+        return island;
 
     }
 
-    int numIslands(vector<vector<char>>& grid) {
-
-        // size of grid 
+    void dfs(int r , int c  , vector<vector<bool>>& vis ,vector<vector<char>>& grid  )
+    {
         int m = grid.size();
-        int n = grid[0].size();
+        int n  = grid[0].size();
+        
+        // mark visisted current cell
+        vis[r][c] = true;
 
-        int count = 0 ;
-
-        // visited 
-        vector<vector<bool>>vis(m , vector<bool>(n , false));
-
-        for(int i = 0 ; i < m ; i++)
+        for(int i =0 ; i < 4 ; i++)
         {
-            for(int j = 0 ; j< n ;j++)
-            {
-                // if island found 
-                if(grid[i][j] == '1' && vis[i][j]== false)
-                {
-                    count++;
-                    dfs(i , j , grid , vis); 
-                }
+            // create a  next row and col  for checking next cell
 
+            int nr  = r + dr[i];
+            int nc = c + dc[i];
+
+            // check if the conditions  are  matched or not 
+            if( nr >= 0  && nr < m && 
+            nc >= 0 && nc < n &&  
+            grid[nr][nc] == '1' && vis[nr][nc] == false)
+            {
+                // if condition true means we got another part of the land and merge it with parent land 
+                dfs(nr , nc , vis , grid);
             }
         }
-        return count ;
     }
 };
