@@ -33,9 +33,10 @@ public:
 
     void dfs(int r , int c  , vector<vector<bool>>& vis ,vector<vector<char>>& grid  )
     {
+        // size
         int m = grid.size();
         int n  = grid[0].size();
-        
+
         // mark visisted current cell
         vis[r][c] = true;
 
