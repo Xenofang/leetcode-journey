@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Xenofang/leetcode-journey/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Xenofang/leetcode-journey/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0707-design-linked-list](https://github.com/Xenofang/leetcode-journey/tree/master/0707-design-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Xenofang/leetcode-journey/tree/master/0173-binary-search-tree-iterator) |
+| [0707-design-linked-list](https://github.com/Xenofang/leetcode-journey/tree/master/0707-design-linked-list) |
 ## Iterator
 |  |
 | ------- |
