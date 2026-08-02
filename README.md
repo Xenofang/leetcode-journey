@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Xenofang/leetcode-journey/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/Xenofang/leetcode-journey/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Xenofang/leetcode-journey/tree/master/0347-top-k-frequent-elements) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Xenofang/leetcode-journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Xenofang/leetcode-journey/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Xenofang/leetcode-journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/Xenofang/leetcode-journey/tree/master/0692-top-k-frequent-words) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Xenofang/leetcode-journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0713-subarray-product-less-than-k](https://github.com/Xenofang/leetcode-journey/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Xenofang/leetcode-journey/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Xenofang/leetcode-journey/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Xenofang/leetcode-journey/tree/master/0020-valid-parentheses) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Xenofang/leetcode-journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/Xenofang/leetcode-journey/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/Xenofang/leetcode-journey/tree/master/0692-top-k-frequent-words) |
 | [0844-backspace-string-compare](https://github.com/Xenofang/leetcode-journey/tree/master/0844-backspace-string-compare) |
