@@ -31,7 +31,7 @@ public:
 
         for(int neigh :  graph[s])
         {
-            if(vis[neigh] == false && rPath[neigh] == false)
+            if(vis[neigh] == false)
             {
                 if(dfs(neigh , vis , rPath , graph)) return true;
             }
