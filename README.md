@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Xenofang/leetcode-journey/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Xenofang/leetcode-journey/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Xenofang/leetcode-journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Xenofang/leetcode-journey/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Xenofang/leetcode-journey/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Xenofang/leetcode-journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0797-all-paths-from-source-to-target](https://github.com/Xenofang/leetcode-journey/tree/master/0797-all-paths-from-source-to-target) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Xenofang/leetcode-journey/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Xenofang/leetcode-journey/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Xenofang/leetcode-journey/tree/master/0226-invert-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Xenofang/leetcode-journey/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Xenofang/leetcode-journey/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Xenofang/leetcode-journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0797-all-paths-from-source-to-target](https://github.com/Xenofang/leetcode-journey/tree/master/0797-all-paths-from-source-to-target) |
@@ -305,11 +307,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Xenofang/leetcode-journey/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/Xenofang/leetcode-journey/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Xenofang/leetcode-journey/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Xenofang/leetcode-journey/tree/master/0133-clone-graph) |
+| [0547-number-of-provinces](https://github.com/Xenofang/leetcode-journey/tree/master/0547-number-of-provinces) |
 | [0797-all-paths-from-source-to-target](https://github.com/Xenofang/leetcode-journey/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/Xenofang/leetcode-journey/tree/master/0802-find-eventual-safe-states) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Xenofang/leetcode-journey/tree/master/1971-find-if-path-exists-in-graph) |
