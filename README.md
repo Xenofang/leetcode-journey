@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Xenofang/leetcode-journey/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Xenofang/leetcode-journey/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Xenofang/leetcode-journey/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0155-min-stack](https://github.com/Xenofang/leetcode-journey/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Xenofang/leetcode-journey/tree/master/0173-binary-search-tree-iterator) |
 | [0496-next-greater-element-i](https://github.com/Xenofang/leetcode-journey/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/Xenofang/leetcode-journey/tree/master/0844-backspace-string-compare) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Xenofang/leetcode-journey/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Xenofang/leetcode-journey/tree/master/0173-binary-search-tree-iterator) |
 | [0707-design-linked-list](https://github.com/Xenofang/leetcode-journey/tree/master/0707-design-linked-list) |
 ## Iterator
