@@ -4,7 +4,6 @@ public:
     {
         int m = board.size();
         int n = board[0].size();
-
         // base case 
         if( r < 0 || r == m ||
             c < 0 || c == n ||
@@ -12,9 +11,7 @@ public:
             {
                 return ;
             }
-
         board[r][c] = 'T';
-
         dfs(r-1, c, board); //top
         dfs(r+1, c, board); // bottom
         dfs(r, c-1, board); //left
@@ -23,9 +20,7 @@ public:
     void solve(vector<vector<char>>& board) {
         int m = board.size();
         int n = board[0].size();
-
         // for every edges if there is a O  we have  to channge it into temp T
-
         for(int i= 0 ; i < m ; i++)
         {
             for(int j = 0 ; j < n ; j++)
@@ -36,10 +31,7 @@ public:
                 }
             }
         }
-
-
         // convert all the remaning O into x 
-
         for(int r = 0 ; r < m ; r++)
         {
             for(int c = 0 ; c < n ; c++)
@@ -50,7 +42,6 @@ public:
                 {
                     board[r][c] = 'X';
                 }
-
                 else if(r >= 0 && r < m &&
                     c >= 0 &&  c < n &&
                     board[r][c] == 'T')
