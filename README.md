@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Xenofang/leetcode-journey/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/Xenofang/leetcode-journey/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Xenofang/leetcode-journey/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Xenofang/leetcode-journey/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Xenofang/leetcode-journey/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Xenofang/leetcode-journey/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Xenofang/leetcode-journey/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Xenofang/leetcode-journey/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/Xenofang/leetcode-journey/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Xenofang/leetcode-journey/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Xenofang/leetcode-journey/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Xenofang/leetcode-journey/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Xenofang/leetcode-journey/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Xenofang/leetcode-journey/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Xenofang/leetcode-journey/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/Xenofang/leetcode-journey/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Xenofang/leetcode-journey/tree/master/0547-number-of-provinces) |
 | [0797-all-paths-from-source-to-target](https://github.com/Xenofang/leetcode-journey/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/Xenofang/leetcode-journey/tree/master/0802-find-eventual-safe-states) |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Xenofang/leetcode-journey/tree/master/0207-course-schedule) |
 | [0802-find-eventual-safe-states](https://github.com/Xenofang/leetcode-journey/tree/master/0802-find-eventual-safe-states) |
 ## Kosaraju's Algorithm
 |  |
@@ -370,4 +374,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/Xenofang/leetcode-journey/tree/master/0802-find-eventual-safe-states) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Xenofang/leetcode-journey/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
